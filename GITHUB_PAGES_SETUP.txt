@@ -1,0 +1,33 @@
+GITHUB PAGES HOSTING INSTRUCTIONS — WEDDING INVITATIONS
+
+1. On github.com, sign in and create a new PUBLIC repository named wedding.
+2. Download Wedding_Invitations_GitHub_Pages.zip and extract it first.
+3. In your new GitHub repository select Add file > Upload files.
+4. Upload all items INSIDE the extracted folder, preserving the assets folder:
+     index.html
+     mehndi-baraat.html
+     walima.html
+     assets/ (including its 10 images/music files)
+     .nojekyll (optional)
+   Do not upload the ZIP file by itself; GitHub Pages does not unpack it.
+   If dragging the assets folder doesn't work in your browser, upload using
+   GitHub Desktop or git. Keep the same folder structure.
+5. Commit the upload.
+6. Open Settings > Pages > Build and deployment.
+7. Under Source select Deploy from a branch.
+8. Select main and /(root), then click Save.
+9. Open the Visit site link once the site is published.
+
+Your three invite links will be:
+ https://YOUR_USERNAME.github.io/wedding/
+ https://YOUR_USERNAME.github.io/wedding/mehndi-baraat.html
+ https://YOUR_USERNAME.github.io/wedding/walima.html
+
+Important:
+- Share the live HTTPS URLs on WhatsApp, not the .html files.
+- Test each link on a mobile phone and tap the invitation cover to start music.
+- Website music needs a real user gesture and may be blocked or muted by
+  phone or WhatsApp in-app browser settings; open in Safari/Chrome if needed.
+- Venue directions buttons open the exact Google Maps links.
+- Add to Calendar downloads .ics event files on some devices.
+- The repository and its content will be public; venue addresses are public.
